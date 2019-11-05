@@ -1,10 +1,6 @@
-"""
+
 (c) Evgeny Mironov
-            _.            __.
-    __ . /  ( ..      __/ /
-<   o  )))       . . -  \(
-    `   ´´ \| ´           
-"""
+
 
 
 # PrimeNumbers.java
